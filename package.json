@@ -35,7 +35,7 @@
     "commander": "~2.9.0",
     "irc": "~0.4.0",
     "lodash": "~3.10.1",
-    "slack-client": "~1.5.0",
+    "slack-client": "git+https://github.com/l12s/node-slack-client.git#4aeb5718bbba576645ea3dcb23e2b91c39a9899b",
     "strip-json-comments": "~2.0.0",
     "winston": "~2.1.1"
   },
